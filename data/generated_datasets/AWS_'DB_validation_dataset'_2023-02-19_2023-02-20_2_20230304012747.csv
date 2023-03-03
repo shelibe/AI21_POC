@@ -1,0 +1,16 @@
+uuid,prompt
+85e302e8-fa03-46b7-92b5-94cc70ded13f,"Classify this sentence using the provided context to one of the following classes: [Resistance, Improvement, Urinary, Neutral, Vital, Emergency, Psychological, Senses, Medication, Hospital, Activity, Exercise, Positive, Cardiac, Inadequate, Plan, Gastrointestinal, Cognitive, Sleep, Fall, Anomaly, Skin, Safety, Equipment, Chronic, Pain, Labs, Respiratory, help, TV]
+Context: lady i am giving a dinner party tonight for seven people. my agent is bringing a woman who writes for art in america, in fact, no one dining here this evening..
+Sentence: lady i am giving a dinner party tonight for seven people..
+Class: 
+"
+85e302e8-fa03-46b7-92b5-94cc70ded13f,"Classify this sentence using the provided context to one of the following classes: [Resistance, Improvement, Urinary, Neutral, Vital, Emergency, Psychological, Senses, Medication, Hospital, Activity, Exercise, Positive, Cardiac, Inadequate, Plan, Gastrointestinal, Cognitive, Sleep, Fall, Anomaly, Skin, Safety, Equipment, Chronic, Pain, Labs, Respiratory, help, TV]
+Context: lady i am giving a dinner party tonight for seven people. my agent is bringing a woman who writes for art in america, in fact, no one dining here this evening..
+Sentence: my agent is bringing a woman who writes for art in america, in fact, no one dining here this evening..
+Class: 
+"
+63ae402f-536d-4731-83fe-ad806949b4c8,"Classify this sentence using the provided context to one of the following classes: [Resistance, Improvement, Urinary, Neutral, Vital, Emergency, Psychological, Senses, Medication, Hospital, Activity, Exercise, Positive, Cardiac, Inadequate, Plan, Gastrointestinal, Cognitive, Sleep, Fall, Anomaly, Skin, Safety, Equipment, Chronic, Pain, Labs, Respiratory, help, TV]
+Context: right..
+Sentence: right..
+Class: 
+"
